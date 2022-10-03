@@ -11,8 +11,8 @@ const adicionar = () =>{
     let fruta4 = document.getElementById("fruta-4")
     fruta4.innerHTML = nome
     nome = document.getElementById("nome")
-    nome.value = ""
 }  
 
-const novaFruta = document.getElementById("nome")
-console.log(novaFruta.name)
+const imprimeFruta = () => {document.getElementById("nome")
+    let imprime = nome.value
+    console.log(imprime)}

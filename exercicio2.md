@@ -5,4 +5,7 @@ Depois disso, escreva **No DevTools** o código necessário para que seja possí
 Cole o comando aqui:
 ```jsx
     cole o código JS nesta área.
+    const imprimeFruta = () => {document.getElementById("nome")
+    let imprime = nome.value
+    console.log(imprime)}
 ```
